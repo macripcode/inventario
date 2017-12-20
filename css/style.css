@@ -1,0 +1,430 @@
+#tabla_datos{
+	border-collapse:collapse; 
+}
+
+table#tabla_datos td{
+	padding:1px 5px; 
+	border-right:1px solid black; 
+	border-bottom:1px solid black;
+}
+
+
+input#buscar_estado_0,
+input#buscar_cliente_0,
+input#buscar_codigo_0,
+input#buscar_descripcion_0,
+input#buscar_material_0,
+input#buscar_color_0,
+input#buscar_plataforma_0,
+input#buscar_sello_0,
+input#buscar_empaque_0,
+input#talla34_0,
+input#talla35_0,
+input#talla36_0,
+input#talla37_0, 
+input#talla38_0, 
+input#talla39_0, 
+input#talla40_0, 
+input#total_0, 
+input#entrega_0 {
+    height: 30px;
+    font-size: 20px;
+}
+
+
+
+#head1_cabecera{
+	display: inline-block;
+	width: 45px;
+	border: 1px solid black;
+	background: #FF0066;
+	color: black;
+}
+#head2_cabecera{
+	display: inline-block;
+    width: 142px;
+    margin-left: -5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    position: absolute;
+    color: black;
+    background: #FF0066;
+    left: 78px;
+}
+#head3_cabecera{
+	display: inline-block;
+    width: 68px;
+    border: 1px solid black;
+    position: absolute;
+    left: 214px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #FF0066;
+    color: black;
+}
+#head4_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 226px;    
+    left: 281px; 
+      
+}
+#head5_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 83px;
+    left: 506px;;
+     
+}
+#head6_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 80px;
+    left: 588px;
+    
+}
+#head7_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 110px;    
+    left: 667px;
+    
+}
+#head8_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 55px;    
+    left: 776px;
+    
+}
+#head9_cabecera{
+	display: inline-block;
+	border: 1px solid black;
+	background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 79px;
+    left: 830px;
+    
+}
+
+#head10_cabecera {
+    display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 31px;
+    left: 907px;
+    /*z-index: 90;*/
+}
+
+#head11_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 937px;
+    /*z-index: 90*/
+}
+
+#head12_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 967px;
+    
+}
+
+#head13_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 997px;
+    /*z-index: 90*/
+}
+
+#head14_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 1027px;
+    /*z-index: 90*/
+}
+
+#head15_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 1057px;
+    /*z-index: 90*/
+}
+
+#head16_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 32px;
+    left: 1087px;
+    /*z-index: 90*/
+}
+
+#head17_cabecera{
+	    display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 42px;
+    left: 1117px;
+    /*z-index: 90*/
+}
+#head18_cabecera{
+	display: inline-block;
+    border: 1px solid black;
+    background: #FF0066;
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 82px;
+    left: 1158px;
+}
+
+#table_wrapper{ 	
+ 	float:left;
+ 	background: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#tbody {
+    height: 250px;
+    overflow-y: auto;
+    width: 1308px;
+    
+}
+
+#header td {
+    padding: 0px;
+}
+
+
+
+/*Acomodando inputs*/
+input.buscar_estado {
+    width: 33px;
+    border: 1px solid transparent;
+}
+
+input.buscar_cliente {
+    width: 130px;
+    border: 1px solid transparent;
+    
+}
+
+input.buscar_codigo {
+    width: 56px;
+    border: 1px solid transparent;
+    text-align: center;
+}
+
+input.buscar_descripcion {
+    width: 214px;
+    border: 1px solid transparent;
+    
+}
+
+input.buscar_material{
+	width: 71px;
+    border: 1px solid transparent;
+}
+
+input.buscar_color{
+	width: 68px;
+    border: 1px solid transparent;
+}
+input.buscar_plataforma{
+	width: 98px;
+	border: 1px solid transparent;
+}
+input.buscar_sello{
+	width: 43px;
+	border: 1px solid transparent;
+}
+input.buscar_empaque{
+	width: 66px;
+	border: 1px solid transparent;
+}
+
+.tallas {
+    width: 19px;
+    border: 1px solid transparent;
+}
+
+input.total {
+    width: 30px;
+    border: 1px solid transparent;
+}
+
+input.entrega {
+    width: 70px;
+    border: 1px solid transparent;
+}
+	
+#header{
+	/*width:1360px;*/
+	background:#FF0066;
+	border-bottom:1px solid black;
+	color: black;
+}
+
+#header table{
+	padding:1px 5px;
+	float:left;
+	border-right:1px solid orange;
+}
+
+.letra_head{
+	text-align: center;
+	font-weight: bold;
+}
+
+.letra_body{
+	text-align: center;
+	color: black;
+	font-size: 12px;
+}
+
+.contenedor-btn{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.contenedor_ingreso_botones{
+	padding-bottom: 150px;
+	padding-top: 150px;
+}
+
+#span-icono{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size:20px;
+}
+
+#div_nuevo_cliente_btn, #div_nuevo_color_btn, #div_nuevo_estado_btn, #div_nuevo_material_btn, #div_nuevo_plataforma_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+/*----------------estilos gestionar clientes------*/
+input.in_gestion_clientes{
+	border: 1px solid transparent;
+}
+
+#form_nuevo_cliente{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#btn_atras_clientes{
+	padding-bottom: 50px;
+}
+/*------------------------------------------------*/
+
+/*----------------estilos gestionar color------*/
+#form_nuevo_color{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/*----------------estilos gestionar color-olor
+
+/*----------------estilos gestionar estado------*/
+#form_nuevo_estado{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/*----------------estilos gestionar estado------*/
+
+/*----------------estilos gestionar material------*/
+#form_nuevo_material{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/*----------------estilos gestionar material------*/
+
+/*----------------estilos gestionar material------*/
+#form_nuevo_plataforma{
+	display: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#btn_atras_plataforma{
+	padding-bottom: 50px;
+}
+/*----------------estilos gestionar material------*/
